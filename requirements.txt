@@ -1,0 +1,7 @@
+pandas
+numpy
+statsmodels
+pandas_datareader
+linearmodels
+matplotlib
+seaborn
