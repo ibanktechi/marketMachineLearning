@@ -5,3 +5,4 @@ pandas_datareader
 linearmodels
 matplotlib
 seaborn
+tables
